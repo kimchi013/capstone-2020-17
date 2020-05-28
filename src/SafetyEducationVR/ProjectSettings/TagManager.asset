@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Phone
   - Flammable
+  - Extinguisher
+  - Fire
+  - Alarm
+  - Sink
+  - Rug
   layers:
   - Default
   - TransparentFX

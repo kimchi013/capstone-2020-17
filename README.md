@@ -14,6 +14,8 @@ VR은 실제로 구현하기 어려운 상황을 간접적으로 체험 가능�
 Unity3d엔진을 이용하고 C# 언어를 기본으로 실험실 소방안전 교육 컨텐츠를 개발하고 있으며, 프로젝트에서 사용하는 VR기기인 Oculus Go의 Android System과 프로젝트를 연동 시켜 놓았습니다. 
 현재 Main인 교육선택지와 ACT.1 실험실 화재상황시 대처법/소화기 사용법 등 소방안전교육 파트를 구현해 놓았고 오픈소스인 Firebase Authentication을 이용하여  USER의 학번(이메일 형식)과 비밀번호를 인증하여 로그인 및 로그아웃을 구현하였고 실시간 데이터베이스를 사용하여 USER의 이름, 학번, 점수, 현재 진행상황 등을 저장하는 것을 구현완료한 상태입니다.
  VR안전교육시스템의 사용자 각 개인 별로 실험실 안전교육 점수까지 연동해 놓았습니다.<br>
+
+
 ### II. 팀 소개
 
 ![수정본 김동현](https://user-images.githubusercontent.com/42829348/77139872-009ded80-6abb-11ea-8afb-6df7b258adcf.jpg)<br>
@@ -67,7 +69,8 @@ The ultimate goal is to prevent accidents by maximizing the experience of lab sa
 <br>
 
 ### IV. 소개 영상
-[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/zFU-n18M7nE)
+[![video](https://user-images.githubusercontent.com/42829348/77231783-75b71300-6be0-11ea-969a-a83e39c3c380.jpg)](https://youtu.be/3Gb93flUa6o)
 <br>
 ### V. 결과 영상
 - 2020 . 06 . 05 upload-
+https://youtu.be/3Gb93flUa6o)
